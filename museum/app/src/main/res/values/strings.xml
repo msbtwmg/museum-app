@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A2_Museum</string>
+    <string name="landing_title">Explore thousands of artworks</string>
+    <string name="landing_button">Discover</string>
+    <string name="filter_title">Filter</string>
+    <string name="search_filter">Search Filter</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="creation_year">Creation Year</string>
+    <string name="artwork_image">Artwork Image</string>
+    <string name="title">Title</string>
+    <string name="titel">Titel</string>
+    <string name="artist">Artist</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="go_back">Go back</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <color name="primaryColor">#EF5350</color>
+    <color name="secondaryColor">#1E1F22</color>
+    <color name="backgroundColor">#FAF9F6</color>
+    <color name="surfaceColor">#383637</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="onSecondaryColor">#E4E1E1</color>
+    <color name="onBackgroundColor">#000000</color>
+    <color name="onSurfaceColor">#1E1F22</color>
+    <color name="mainButtons">#a0547e</color>
+</resources>
