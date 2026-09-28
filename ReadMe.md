@@ -5,7 +5,12 @@
 
 An Android app for searching artworks from the Art Institute of Chicago
 
-![preview](previews/preview_1.gif) ![preview](previews/preview_2.gif) ![preview](previews/preview_3.gif)  ![preview](previews/preview_4.gif)
+<p align="center">
+  <img src="previews/preview_1.gif" width="230">
+  <img src="previews/preview_2.gif" width="230">
+  <img src="previews/preview_3.gif" width="230">
+  <img src="previews/preview_4.gif" width="230">
+</p>
 
 ### A low fi mockup that I made on [Mockflow](https://mockflow.com/)
 ![mockup](mockup.png)
