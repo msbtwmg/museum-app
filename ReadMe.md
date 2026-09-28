@@ -1,4 +1,15 @@
+
 ## Readme
+
+2025 university project. Focus: human Computer Interaction, UI and usability
+
+An Android app for searching artworks from the Art Institute of Chicago
+
+![preview](previews/preview_1.gif) ![preview](previews/preview_2.gif) ![preview](previews/preview_3.gif)  ![preview](previews/preview_4.gif)
+
+### A low fi mockup that I made on [Mockflow](https://mockflow.com/)
+![mockup](mockup.png)
+
 
 ### Implementierung
 
@@ -17,7 +28,6 @@ Externe Libraries und Frameworks:
 Dauer der Entwicklung:
 ca. 49 Stunden
 
-Weitere Anmerkungen:
 Credits:
 
 Zoom - Icon made by Radhe Icon from www.flaticon.com
