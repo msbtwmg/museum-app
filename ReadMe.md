@@ -1,9 +1,10 @@
 
 ## Readme
 
-2025 university project. Focus: human Computer Interaction, UI and usability
 
-An Android app for searching artworks from the Art Institute of Chicago
+### An Android app for searching artworks from the Art Institute of Chicago
+#### 2025 university project. Focus: human Computer Interaction, UI and usability
+
 
 <p>
   <img src="previews/preview_1.gif" width="200">
@@ -13,9 +14,12 @@ An Android app for searching artworks from the Art Institute of Chicago
 </p>
 
 
-### A low fi mockup I made on [Mockflow](https://mockflow.com/) before building the app:
+#### A low fi mockup I made on [Mockflow](https://mockflow.com/) before building the app:
 ![mockup](mockup.png)
 
+---
+
+#### How to try it yourself: 1. Clone the repository. 2. Open the project in Android Studio. 3. Run it on an Android emulator or Android device. (Tested on a Pixel 6 with Android 30)
 
 ### Implementierung
 
