@@ -12,7 +12,8 @@ An Android app for searching artworks from the Art Institute of Chicago
   <img src="previews/preview_4.gif" width="200">
 </p>
 
-### A low fi mockup that I made on [Mockflow](https://mockflow.com/)
+
+### A low fi mockup I made on [Mockflow](https://mockflow.com/) before building the app:
 ![mockup](mockup.png)
 
 
