@@ -34,7 +34,7 @@ Dauer der Entwicklung:
 ca. 49 Stunden
 
 Credits:
-
+University of Chicago api - https://api.artic.edu/docs/
 Zoom - Icon made by Radhe Icon from www.flaticon.com
 
 Welcome Header Spruch Inspo -  https://www.artic.edu
