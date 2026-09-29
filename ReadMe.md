@@ -26,18 +26,18 @@ Gerät(e), auf dem(denen) getestet wurde:
 Pixel 6 - API 30 
 
 Externe Libraries und Frameworks:
+
 'com.android.volley:volley:1.2.1'
+
 'com.github.bumptech.glide:glide:4.16.0'
+
 'com.github.chrisbanes:PhotoView:2.3.0'
 
-Dauer der Entwicklung:
-ca. 49 Stunden
 
 Credits:
-University of Chicago api - https://api.artic.edu/docs/
-Zoom - Icon made by Radhe Icon from www.flaticon.com
-
-Welcome Header Spruch Inspo -  https://www.artic.edu
+- University of Chicago api - https://api.artic.edu/docs/
+- Zoom - Icon made by Radhe Icon from www.flaticon.com
+- Welcome Header Spruch Inspo -  https://www.artic.edu
 
 Tutorials:
 - https://www.youtube.com/watch?v=4lEnLTqsnaw
